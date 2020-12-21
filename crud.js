@@ -6,6 +6,7 @@ const argv = require('./config/yargs').argv;
 const persona = require('./src/form-perso');
 const colors =  require('colors');
 
+// Comentario: 21/12/2020
 
 let comando = argv._[0];
 
